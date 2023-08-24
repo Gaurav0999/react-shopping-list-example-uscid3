@@ -1,0 +1,23 @@
+h1, p {
+  font-family: Lato;
+}
+.item {
+  background-color:#b3e3de;
+  margin:10px;
+  padding:10px;
+  border-radius:8px;
+  border: 3px solid red;
+  /* display: inline-block; */
+}
+.item img{
+  width: 100px;
+  margin-bottom: 5px;
+}
+.item a{
+  padding:5px;
+  text-decoration: none;
+  color: #fff;
+  background: black;
+  border-radius:8px;
+  border: 3px solid red;
+}
